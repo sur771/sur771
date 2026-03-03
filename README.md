@@ -1,4 +1,4 @@
-## Hi there 👋
+## Этот репозиторий сделал Бирюков Глеб 41ПИфМ 👋
 
 <!--
 **sur771/sur771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
