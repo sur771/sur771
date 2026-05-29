@@ -1,4 +1,5 @@
-## Этот репозиторий сделал Бирюков Глеб 41ПИфМ 👋
+## Этот репозиторий сделал Бирюков Глеб 41ПИфМ 👋 glebaskantrabas@gmail.com
+
 
 <!--
 **sur771/sur771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
